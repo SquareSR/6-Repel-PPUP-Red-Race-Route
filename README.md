@@ -516,11 +516,11 @@ Menu before Snorlax:
 - Slot 4 - **Repel**
 - d4 swap **Helix Fossil** (Rare Candy exits) d11 w/ **TM26** (HM02 delays)
 - d1 PPUP on HD
+- d7 TM26 (Rare Candy exits)
 - Bike and cut both trees
 
 **Zone 2 Menu**:
 - Slot 3 - **Super Repel**
-- d5 teach **TM26** (Rare Candy exits)
 
 > Quick Reference            
 > Slot 12 - Revive (2 below HM01)     

@@ -491,6 +491,8 @@ Get the Card Key
 - BB (24-37 could TB stall if desperate for red bar)
 - HD
 
+<img src="https://i.imgur.com/0uFwTK9.png">
+
 Go back to the elevator and go to the 10th Floor (3 below 7th) to get [TM26 (Earthquake)](https://gunnermaniac.com/pokeworld?map=234#2/12) and the [Rare Candy](https://gunnermaniac.com/pokeworld?map=234#4/14)
 
 Dig out w/ Paras

@@ -1,4 +1,4 @@
-## Nidoran Split
+## Nidoran Split - Flex PPUP Route
 
 > Get PC Potion and 1-4 (or 5) S1 Potion
 - Buy 4 Balls
@@ -248,10 +248,9 @@ Optional Gentleman in [the 3rd Cabin from the Right](https://gunnermaniac.com/po
 
 | HP    | Strategy                                 |
 | ----- | ---------------------------------------- |
-| 1     | Do Gentleman + use a Potion in Cut Menu  |
-| 2-11   | Do Gentleman                            |
-| 12-24  | Do Gentleman to be extra safe           |
-
+| 1     | Gent (+ Pot in Cut Menu?)                |
+| 2-11   | Gentleman Candy                         |
+| 12-24  | Gentleman if huge lead or 1 pot only    |
 
 Vermillion Mart:
 - 6 Repels
@@ -278,12 +277,12 @@ Do Cans Manip
 
 </td><td>
 
-Raichu            | Self Hit
------------------ | --------
-&nbsp;            | 14
-w/Growl           | 9
-w/Screech         | 29
-w/Screech & Growl | 17
+Surge's Raichu    | Hit Self | w/ gent  
+----------------- | -------- | ---------
+&nbsp;            | **14**   | 15
+w/Growl           | **9**    | 10
+w/Screech         | **29**   | 31
+w/Screech & Growl | **17**   | 18
 
 Exit gym, Cut the tree, get the Bike Voucher, and Dig out. 
 
@@ -328,18 +327,19 @@ Exit gym, Cut the tree, get the Bike Voucher, and Dig out.
 #### Fly Split Red Bar (play normal if not going for red bar)
 - Note: Swap if confused by Slowpoke
 
-| HP @ L28 | Strategy                                         |
-| -------- | ------------------------------------------------ |
-| 1-21     | Normal                                           |
-| 20-29    | 1st Slowpoke BB + TB                             |
-| 30-31    | 2nd Slowpoke BB + TB                             |
-|  32+     | skip red bar                                     |
+|  HP @ L28  | Strategy                       |
+| ---------- | ------------------------------ |
+| 20-29      | 1st Slowpoke BB + TB           |
+| 30-31      | 2nd Slowpoke BB + TB           |
+| 28-38      | Cubone: TB + BB                |
+| 39-43      | 1st Slowpoke: BB x2 + TB       |
+| 32+ or 44+ | skip red bar                   |
 
 #### Oddish Girl
 | HP @ L29 | Strategy                    |
 | -------- | --------------------------- |
 | 1-17     | Save & Thrash               |
-| 18-22    | Save & TB + Thrash          |
+| 18-22    | TB + Thrash                 |
 | 23-42    | Save & Thrash               |
 | 43+      | No-Save & Thrash            |
 
@@ -371,7 +371,8 @@ Get the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=21#16/53)
 
 ## Celadon City
 
-> If you fought Gentleman, buy +1 X Accuracy
+> If you fought Gentleman, buy +1 X Accuracy       
+> Early: 1-8, 20-27, (or 19 w/ Moon Exp)       
 
 Celadon Mart:
 - Floor 2:
@@ -440,28 +441,38 @@ Get the Poke Flute and Fly (D1) to Celadon.
 **Rocket w/Arbok:**
 - Thrash x2-3
 
-> If under ~71-89ish HP and Parlyzed: Menu + use Slot 5 - Parlyz Heal before the next fight.      
-> ~71-90+ HP and Paralyzed: delay using Para Heal until in the next fight.     
+> If under 71 HP and Parlyzed: Menu + use Slot 5 - Parlyz Heal before the next fight.      
+> ~71+ HP and Paralyzed: delay using Para Heal until in the next fight.     
 
 Get the Card Key
 
-**Rival:**
+**Normal Silph Rival:**
 - Pidgeot:
-	- **X Accuracy**
-	- (+ d3 Parlyz Heal, if needed)
-  - d4 - swap Potion (srepel exits) d8 w/ X Special (HM01 delays)
-	- d1 - X Speed
+	- **X Accuracy** (+d3 Parylyz)
+    - d4 swap Potion (srepel exits), d8 w/ X Special (HM01 delays)
+	- d1 X Speed
 - Gyarados: HD
-    - 38-45: **Up Potion** Zam (HM01 exits)
+
+**Alt Silph Rival (for Red Bar):**
+- Pidgeot:
+    - **X Accuracy**
+    - d3 swap Parlyz (Acc exits), d12 w/ Rare Candy (X Special Exits)
+    - U2 X Speed
+    - into items and Up 1 carefully to X Special
+- Gyarados:
+    - 38-45: **HD** & **Up Potion** Zam (HM01 exits)
     - 46-51: **HD** & **X Special** on Zam
     - 52-75: **U2 Super Potion**
     - 76-85: **X Special**
     - 86-100: **U7 Potion** (HM01 exits)
     - 101+: **d4 Flute** (2 below HM02)
+- Growlithe:
+    - BB 
 
-**Max Ether Menu**
+**Max Ether 78 HP**
 - Slot 7 Max Ether (REPEL exits)
 - Rocket: **X Accuracy**, BB, HD, HD
+- d5 Max Ether (REPEL exits)
 
 > Quick Reference            
 > Slot 12 - Revive (2 below HM01)     
@@ -485,30 +496,46 @@ Menu before Snorlax:
 - d1 swap **Parlyz Heal** d12 w/ **Rare Candy** (2 below X Speed)
 - d1 use **Poke Flute**
 
+Alt Snorlax (if Silph Bar):
+- Slot 4 - **Repel**
+- d2 swap **Potion** d7 w/ **X Special** (HM01 delays)
+- d4 use **Pokeflute** (X Speed exits)
+
 ## Cycling Road
 
 - Get the [hidden Rare Candy](http://gunnermaniac.com/pokeworld?map=1#125/148)
 
 - Get the [hidden PPUP](http://gunnermaniac.com/pokeworld?map=1#125/148)
 
+## Alt Fuschia City
+
+**Post Cycling Road Menu (only if PPUP Skip)**:
+- S4 **Repel**
+- d4 swap **Helix** (Rare candy exits), d6 w/ **X Speed** (Revive exits)
+- d5 TM26 (HM02 delays)
+- Bike
+- use srepel in Zone 2
+
 ## Fuschia City
 
-**EQ Menu**:
+**Safari Menu**:
+- S3 **Super Repel**
+- d5 swap **Helix** (Rare Candy exits), d11 w/ **TM26** (HM02 delays)
+- d1 PPUP on (d1 Nido) on HD
+- Bike
+
+**Zone 3 Menu**:
 - Slot 4 - **Repel**
-- d4 swap **Helix Fossil** (Rare Candy exits) d11 w/ **TM26** (HM02 delays)
-- d1 PPUP on HD
-- d7 TM26 (Rare Candy exits)
-- Bike and cut both trees
+- d4 TM26 (Rare Candy exits)
+- then just B + Up into Start
 
-**Zone 2 Menu**:
-- Slot 3 - **Super Repel**
-
-> Quick Reference            
-> Slot 12 - Revive (2 below HM01)     
+> Quick Reference (for **HYPNO**)            
+> S12 - Revive (2 below HM01)     
 
 **Koga's Weezing:**
 - Slot 7 - **Elixer**  (3 below REPEL)
-	- If X ATK, Up 1 to use X Special
+	- If X ATK, Up 1 X Special x1-2
+    - If X ATK (+ PPUP skip), D1 X Speed, U2 X Special
 
 | HP after SD    | Overview of Strategy                   
 | -------------- | -------------------------------------
@@ -541,7 +568,7 @@ Menu before Snorlax:
 Pick up the [Rare Candy](http://gunnermaniac.com/pokeworld?map=216#10/2) and [Secret Key](https://gunnermaniac.com/pokeworld?map=216#5/13).
 - Dig out
 
-> Gym Order = Erika, Blaine, Sabrina, Giovanni
+> Gym Order = **(1) Erika, (2) Blaine, (3) Sabrina**
 
 ## Erika's Gym
 
@@ -570,8 +597,7 @@ Dig out and Bike East to Sabrina's gym
 
 ## Saffron City
 
-> Puzzle: **Diagonal**, **Diagonal**, **Down**     
-> (i.e. Top Left, Bottom Left, Bottom Left)     
+> Puzzle: **Diagonal**, **Diagonal**, **Down**   
 
 **Sabrina:**
 - EQ x4
@@ -611,8 +637,8 @@ Backup Boom Strats:
 Menu after leaving the gym and hopping the ledge:
 - **Srepel + Bike**
 
-> Alt VR (83+ HP or behind): (X Acc +) X Spec, TB/Blizz, EQ, TB, X-Spec, TB, EQ, Blizz       
-> Skip Max Ether      
+> Alt Viridian Rival (PPUP skip):        
+> X Accuracy + d2 X Special, TB/Blizz, Blizz/EQ, TB, X-Special, TB, EQ, Blizz         
 
 **Viridian Rival:**
 - **Pidgeot**:
@@ -669,13 +695,12 @@ Only if zero Revives are left:
 > 13 - Flute     (2 below HM02)      
 > 18 - Candy     (2 below HM03)        
 
-
 **Bruno:**
 - **X Accuracy** + Blizz, HD, HD, Blizz, HD
 
 **Menu before Agatha**:
 - S6 **Super Potion x2** (X Special exits)
-- d use **Rare Candy** (2 below HM03)
+- down use **Rare Candy** (2 below HM03)
 
 **Agatha:**
 - Gengar: **Slot 3 - X Special** + **EQ**
@@ -703,6 +728,7 @@ HP      | ITEMS
 - **Save before Lance**
 
 > 126-133 can d1 X Speed after HP miss
+> 134+ can U1 X Accuracy or EQ
 
 **Lance:**
 - Gyarados: **S3 - X Special** + TB
@@ -732,7 +758,6 @@ Any HP |      Heal to 43+       | Heal to 52+
 - Sky Atk: 72-85 / Wing Atk: 18-22 [44-52]
 - S6 Super Potion (X Special exits)
 - S9 Potion (HM01 delays / Spot exits)
-
 
 **Champion:**
 - Pidgeot Turn 1: **Slot 3 - X Special**

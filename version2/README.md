@@ -28,7 +28,7 @@
 
 ## Route 3
 
-> Potion under 13 HP on Weedle
+> Potion under ~13 HP on Weedle
 
 ### BC1: 
 - Leer + HA x2
@@ -204,21 +204,21 @@ Menu after Bill:
 
 ## After Misty
 
-> Backup for Zero Potions left - **Down + Turn RIGHT for Cerulean Mart**                 
-> Buy 4 Potions (slot 2) + 7 Repel (slot 3) + 4 Parlyz Heal (Antidote exits)              
-> Get the hidden FR       
-> Menu after underground:       
-> TM11 (Nugget exits), swap TM34 d5 w/Pot(Nugget exits), d1 use Repel           
-> Cut Menu: S10 HM01 (4 below TM34), swap HM01 Up4 w/TM34, Up1 TM28             
-> Bike Menu: S1 Pot w/Bike (FR exits), U1 TM24            
-> Fly Split: S6 Repel (Nugget exits)            
-> Selling: S3 Nugget, S7 FR + S7 TM34 (HM01 exits)           
+If 1-15 HP after Misty (or 16-24 HP):
+- 3+ Potions, then use a **Potion** + TM11 (Nugget exits)
+- Otherwise:
+   - Get FR, S7 TM11 (Nugget exits), S8 **FR** (S.S. Ticket exits)
+
+> Zero Potion Backup: **Down + Turn RIGHT for Cerulean Mart**                 
+> (1) Buy 4 Potions (slot 2) + 7 Repel (slot 3) + 4 Parlyz Heal (Antidote exits)              
+> (2) Get the hidden FR and menu before exit:       
+> (3) TM11 (Nugget exits), swap S1 TM34 d5 w/ Potion (Nugget exits), d1 use Repel           
+> (4) **Cut Menu**: S10 HM01 (4 below TM34), swap HM01 Up4 w/ TM34, Up1 TM28             
+> (5) **Bike Menu**: S1 Pot w/Bike (FR exits), U1 TM24            
+> (6) **Fly Split**: S6 Repel (Nugget exits)            
+> (7) **Selling**: S3 Nugget, S7 FR + S7 TM34 (HM01 exits)           
 > Menus completely re-aligned Fly Menu onwards        
 
-If 1-15 HP after Misty (or 16-24 HP):
-- 3+ Potions --> use a **Potion**
-- Otherwise:
-   - Get and use Slot 8 - **Full Restore** (3 below S.S. Ticket) on Nido.
 
 ## Route 6
 
@@ -226,20 +226,21 @@ Oddish Manip (if needed) standard intro (slot 2 great ball)
 - <img src="https://i.imgur.com/AJkWygf.png" width="115">
 
 Before Boat Rival:
-- Potion to 13+ or 23+ HP to be safe.
-- Slot 7 TM11 (Nugget exits)
+- Potion to **23+ HP to be safe** or go w/ 13+ if desperate.
+- S7 TM11 (Nugget exits)
+
+> Bird Notes:
+> 1-12 HP, swap to Squirlte + potion Nido
+> 13-22, swap to bird
 
 **Boat Rival:** 
 - Pidgeotto: [1-12 HP: Potion]
 	- HA x2 
-	- Sand Attack x1
-        -  1-12 HP ---> **Swap to Squirtle**
-        -  13-22 HP --> **Spam HA** or **Swap**
-        -  23+ HP ----> **Spam HA** and swap on rat
 - Raticate:
-	- 1-12 HP ---> **Potion**
-    - 13-22 HP --> **Potion** or **MP**
-	- 23+ HP --- > **HA + PS**
+	- 1-12, **Potion**
+    - 13-22, **MP**
+	- 23-32, **HA + PS**
+    - 33+, **MP**
 - Kadabra:
 	- 1-12 HP --> **HA Kadabra** & **Potion turn 1 on Ivysaur**
 	- 13+ HP ---> **Thrash** 
@@ -372,7 +373,8 @@ Get the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=21#16/53)
 ## Celadon City
 
 > If you fought Gentleman, buy +1 X Accuracy       
-> Early: 1-8, 20-27, (or 19 w/ Moon Exp)       
+> Early Drill: 1-8, 20-27, (or 19-26 w/ Moon Exp)
+> Late Drill: 9-19, 28+   
 
 Celadon Mart:
 - Floor 2:
@@ -407,9 +409,10 @@ Take the elevator and get HM02 (Fly)
 > Slot 13 - Revive (3 below Helix)     
 
 - Pidgeotto:
-   - 1-8 HP: Slot 7 - Potion, (Up 4 X Accuracy), HD
+   - 1-8 HP: Slot 7 - Potion, (Up 4 X Accuracy), HD x4
    - 9-19 HP: **TB**
-   - 20-27 HP: **X Acc** (+ 19 HP w/ Moon Exp)
+   - 20-27 HP: **X Acc** (+ 19 HP w/ Moon Exp), HD x4
+   - 28+ HP: **TB**
 - Gyarados: TB
 - Growlithe: (1-8 HP: Potion), BB
 - Kadabra: Thrash x1
@@ -460,14 +463,16 @@ Get the Card Key
     - U2 X Speed
     - into items and Up 1 carefully to X Special
 - Gyarados:
-    - 38-45: **HD** & **Up Potion** Zam (HM01 exits)
-    - 46-51: **HD** & **X Special** on Zam
+    - 38-51: **HD** and see Zam below
     - 52-75: **U2 Super Potion**
     - 76-85: **X Special**
     - 86-100: **U7 Potion** (HM01 exits)
     - 101+: **d4 Flute** (2 below HM02)
 - Growlithe:
-    - BB 
+    - **BB** if silph bar
+- Zam:
+    - 38-45: **Up Potion** Zam (HM01 exits)
+    - 46-51: **X Special** on Zam
 
 **Max Ether 78 HP**
 - Slot 7 Max Ether (REPEL exits)
